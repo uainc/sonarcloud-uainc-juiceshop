@@ -3,6 +3,7 @@ GITHUB_TOKEN = "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"
 if not a == 2:
     b = not i < 10
 
+
 def func(a, b, compute):
     i = a + b  
     i = compute()
