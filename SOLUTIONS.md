@@ -23,6 +23,7 @@ file and open a PR! The same goes for any scripts or automated tools you made fo
 
 ## Hacking Videos
 
+
 * [7 Minute Security](https://7ms.us) Podcast (🧃`v16.x`)
   * Episode #606: [7MS #606: Hacking OWASP Juice Shop (2024 edition)]() ([YouTube](https://www.youtube.com/watch?v=-1rpelarf2E))
   * Legacy Episodes (🧃`v2.x`)
