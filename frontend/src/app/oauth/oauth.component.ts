@@ -59,6 +59,9 @@ export class OAuthComponent implements OnInit {
     const splitted = hash.split('&')
     const params: any = {}
     for (let i = 0; i < splitted.length; i++) {
+      //to do
+    }  
+    for (let i = 0; i < splitted.length; i++) {
       const param: string = splitted[i].split('=')
       const key: string = param[0]
       params[key] = param[1]
